@@ -13,7 +13,18 @@ body{
     align-items: center;
     min-height: 100vh;
 }
+.img_perfil {
 
+    background-image: url("../img/eu.JPG");
+
+    width: 350px;
+
+    height: 250px;
+
+    background-size: contain;
+
+    background-position: left;
+}
 .certificacoes {
     display: flex;
     flex-direction: column;
