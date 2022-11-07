@@ -124,8 +124,14 @@ body{
     margin-bottom: 20px;
 }
 
-.contactInfo ul{
+.contactInfo .ul{
    position: relative; 
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin-right: 60px;
+   gap:0 40px;
+   align-items: center;
 }
 
 .contactInfo ul li{ 
@@ -135,11 +141,20 @@ body{
     cursor: pointer;
 }
 
-.contactInfo ul li .icon{ 
+.contactInfo ul li .icon img{ 
     display: inline-block;
-    width: 30px;
+    width: 60px;
     font-size: 18px;
     color: #03a9f4;
+}
+
+.contactInfo ul li .icon .github{ 
+    display: inline-block;
+    width: 70px;
+    font-size: 18px;
+    color: #03a9f4;
+    position: relative;
+    left: -6px;
 }
 
 .contactInfo ul li span{ 
