@@ -1,6 +1,24 @@
 const lista = [
     {
 
+        curso: "Formação ASP.NET Core REST APIs",
+
+        certificado: "Alura",
+
+        link: "https://cursos.alura.com.br/degree/certificate/5273564e-ab8f-41b6-8c89-cc005d8e4287"
+
+    },
+    {
+
+        curso: "Microsserviços: Padrões de Projeto",
+
+        certificado: "Alura",
+
+        link: "https://cursos.alura.com.br/user/leopcampos85/course/microsservicos-padroes-projeto/certificate"
+
+    },
+    {
+
         curso: "Formação C# e Orientação a Objetos",
 
         certificado: "Alura",
