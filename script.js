@@ -1,6 +1,15 @@
 const lista = [
     {
 
+        curso: "Entity Framework Core parte 1: mapeando um banco pré-existente",
+
+        certificado: "Alura",
+
+        link: "https://cursos.alura.com.br/certificate/9e93f360-2329-414f-b840-b4fdca0f0745"
+
+    },
+    {
+
         curso: "Formação ASP.NET Core REST APIs",
 
         certificado: "Alura",
