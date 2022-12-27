@@ -149,22 +149,29 @@ const lista = [
 
         certificado: "Coti Informática",
 
-        link: "#"
+        link: "https://drive.google.com/file/d/1ozaD7NV-7oZm-tTP00WI04ZFG2KqL6Y1/view?usp=share_link"
     },
     {
         curso: "Web Developer em Java",
 
         certificado: "Coti Informática",
 
-        link: "#"
+        link: "https://drive.google.com/file/d/1DuXMNMgQiyjmmijs_yq26MwUWpmLgPYP/view?usp=share_link"
     },
     {
         curso: "JavaScript: Essencial",
 
         certificado: "Coti Informática",
 
-        link: "#"
+        link: "https://drive.google.com/file/d/1HcnTll9kT3WjOFBHvO4c7eiMEzz6WXbB/view?usp=share_link"
     },
+    {
+        curso: "Teste Automatizado em Javascript Jasmine e Cucumber.Js - Essencial",
+
+        certificado: "Coti Informática",
+
+        link: "https://drive.google.com/file/d/1z5prRZw8N0dekob7-0o3SMWW6DfRMnLo/view?usp=share_link"
+    }
 ]
 
 var certificacoes = document.querySelector('.certificacoes')
