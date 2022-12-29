@@ -1,5 +1,12 @@
 const lista = [
-        {
+    {
+        curso: "C# Avançado - Formação Arquiteto (EM ANDAMENTO)",
+
+        certificado: "Coti Informática" ,
+
+        link: "#"
+    },
+    {
         curso: "Asp.NET Core: uma webapp usando o padrão MVC",
 
         certificado: "Alura",
