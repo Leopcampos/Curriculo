@@ -7,11 +7,11 @@ const lista = [
         link: "#"
     },
     {
-        curso: "C# WebDeveloper - Formação FullStack (EM ANDAMENTO)",
+        curso: "C# WebDeveloper - Formação FullStack",
 
         certificado: "Coti Informática" ,
 
-        link: "#"
+        link: "https://drive.google.com/file/d/1Y_wZb64w5Qqm18N-4JKzsxU2-3z4ZnNa/view?usp=share_link"
     },
     {
         curso: "Asp.NET Core: uma webapp usando o padrão MVC",
