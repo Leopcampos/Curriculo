@@ -1,17 +1,24 @@
 const lista = [
-    {
-        curso: "C# Avançado - Formação Arquiteto (EM ANDAMENTO)",
+        {
+        curso: "Scrum Fundamentals Certified (SFC™)",
 
-        certificado: "Coti Informática" ,
+        certificado: "SCRUMstudy" ,
 
-        link: "#"
+        link: "https://www.scrumstudy.com/certification/verify?type=SFC&number=992098"
     },
     {
-        curso: "C# WebDeveloper - Formação FullStack (EM ANDAMENTO)",
+        curso: "C# Avançado - Formação Arquiteto",
 
         certificado: "Coti Informática" ,
 
-        link: "#"
+        link: "https://drive.google.com/file/d/1gjwMvsGmsrdj4Rq3T938fDoZXVlvrSZ6/view"
+    },
+    {
+        curso: "C# WebDeveloper - Formação FullStack",
+
+        certificado: "Coti Informática" ,
+
+        link: "https://drive.google.com/file/d/1Y_wZb64w5Qqm18N-4JKzsxU2-3z4ZnNa/view"
     },
     {
         curso: "Asp.NET Core: uma webapp usando o padrão MVC",
