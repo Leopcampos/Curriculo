@@ -1,5 +1,19 @@
 const lista = [
     {
+        curso: "Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6)",
+
+        certificado: "Udemy",
+
+        link: "https://www.udemy.com/certificate/UC-c822d148-8a4a-463f-afa4-b0fbc3290e0d/"
+    },
+    {
+        curso: "MAUI Desenvolvimento Multiplataforma em .NET",
+
+        certificado: "Coti Informática",
+
+        link: "https://drive.google.com/file/d/1V6XDDmhvDbuRusbncMgTsiyJ81wBaq0X/view"
+    },
+    {
         curso: "Scrum Fundamentals Certified (SFC™)",
 
         certificado: "SCRUMstudy",
