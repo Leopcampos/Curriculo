@@ -1,5 +1,12 @@
 const lista = [
     {
+        curso: "C# - Aplicando Princípios SOLID na prática",
+
+        certificado: "Udemy",
+
+        link: "https://www.udemy.com/certificate/UC-1a871295-09e6-46f8-95c8-16f553e20b0d/"
+    },
+    {
         curso: "Curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6)",
 
         certificado: "Udemy",
